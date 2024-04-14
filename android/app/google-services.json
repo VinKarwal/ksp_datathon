@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622577582162",
+    "firebase_url": "https://ksp-datathon-7f61d-default-rtdb.firebaseio.com",
+    "project_id": "ksp-datathon-7f61d",
+    "storage_bucket": "ksp-datathon-7f61d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622577582162:android:6d16fc3bb5fa623bbcdf8b",
+        "android_client_info": {
+          "package_name": "com.example.ksp_datathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlO6ch7gAbSBF2CO0MSQLYq4jlgAGAquc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
